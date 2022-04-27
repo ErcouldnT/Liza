@@ -1,0 +1,31 @@
+{
+  "name": "liza",
+  "version": "1.0.0",
+  "description": "Liza <3",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErcouldnT/Liza.git"
+  },
+  "keywords": [
+    "love"
+  ],
+  "author": "Ercode",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ErcouldnT/Liza/issues"
+  },
+  "homepage": "https://github.com/ErcouldnT/Liza#readme",
+  "dependencies": {
+    "express": "^4.18.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.0",
+    "nodemon": "^2.0.15"
+  }
+}
